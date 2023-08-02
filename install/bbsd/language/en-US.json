@@ -1,0 +1,12 @@
+{
+    "detail": {
+      "title": "en-US",
+      "nativeTag": ["English", "USA"],
+      "englishTag": ["English", "USA"],
+      "author": ["Bot Studio for Discord"],
+      "translationVersion": "1.0.0",
+      "dbsVersion": "2.1.1"
+    },
+    "translate": {}
+  }
+  

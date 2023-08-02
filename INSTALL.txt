@@ -1,0 +1,24 @@
+Thanks for downloading Better Bot Studio for Discord (bBSD)!
+
+bBSD only runs on Windows and there'll be no support for other operating system for now.
+
+Requirements:
+	- Legal Copy of Bot Studio for Discord (https://store.steampowered.com/app/1118380/Bot_Studio_for_Discord/)
+	- NodeJS (https://nodejs.org/	or	if you have Chocolatey installed, in cmd "choco install nodejs" and restart cmd)
+
+This is how you install the modifaction:
+	1. Open your Command Prompt (cmd.exe) and goto to your just downloaded bBSD folder.
+		cd 'C:\Users\schnitzel\Desktop\bbsd'
+	2. Now execute the following command:
+		node install.js
+	This will execute the install script.
+	3. Now from your Explorer copy the path of your Bot Studio for Discord installation.
+		E.g. 'C:\Program Files (x86)\Steam\steamapps\common\Bot Studio for Discord'
+	4. Paste the path (just click Right Click in cmd) in the install script and press Enter.
+	5. bBSD now will be installed. Wait for the "Installed bBSD successfully!".
+	6. Run Bot Studio for Discord and enjoy!
+
+Join the Discord Server (https://discord.gg/kMNp4KMbjF) if you need any help or are interested into the project.
+
+Thanks!
+~ qschnitzel
